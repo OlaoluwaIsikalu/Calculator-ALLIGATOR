@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(0, 217, 255);
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+#calculator{
+    background-color: rgb(0, 0, 0);
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+input{
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+h2{
+    color: white;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    background-color: rgb(0, 166, 255);
+    font-size: large;
+    border-radius: 10%;
+    border: none;
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+#Buttos{
+    /* height: 250px;
+    width: 300px; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+input{
+    height: 50px;
+    width: 250px;
+}
